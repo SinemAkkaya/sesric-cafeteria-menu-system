@@ -1,0 +1,15 @@
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/bin/Debug/net10.0/01-hello-world
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/bin/Debug/net10.0/01-hello-world.deps.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/bin/Debug/net10.0/01-hello-world.runtimeconfig.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/bin/Debug/net10.0/01-hello-world.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/bin/Debug/net10.0/01-hello-world.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.AssemblyInfoInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.AssemblyInfo.cs
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.csproj.CoreCompileInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.sourcelink.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/refint/01-hello-world.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/01-hello-world.genruntimeconfig.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/01-hello-world/obj/Debug/net10.0/ref/01-hello-world.dll

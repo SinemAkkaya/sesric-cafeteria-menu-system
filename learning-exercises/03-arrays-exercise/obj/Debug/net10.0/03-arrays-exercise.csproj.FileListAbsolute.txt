@@ -1,0 +1,15 @@
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.AssemblyInfoInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.AssemblyInfo.cs
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.csproj.CoreCompileInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.sourcelink.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/bin/Debug/net10.0/03-arrays-exercise
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/bin/Debug/net10.0/03-arrays-exercise.deps.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/bin/Debug/net10.0/03-arrays-exercise.runtimeconfig.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/bin/Debug/net10.0/03-arrays-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/bin/Debug/net10.0/03-arrays-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/refint/03-arrays-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/03-arrays-exercise.genruntimeconfig.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/03-arrays-exercise/obj/Debug/net10.0/ref/03-arrays-exercise.dll
