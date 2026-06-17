@@ -1,0 +1,15 @@
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/bin/Debug/net10.0/05-oop-exercise
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/bin/Debug/net10.0/05-oop-exercise.deps.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/bin/Debug/net10.0/05-oop-exercise.runtimeconfig.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/bin/Debug/net10.0/05-oop-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/bin/Debug/net10.0/05-oop-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.AssemblyInfoInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.AssemblyInfo.cs
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.csproj.CoreCompileInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.sourcelink.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/refint/05-oop-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/05-oop-exercise.genruntimeconfig.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/05-oop-exercise/obj/Debug/net10.0/ref/05-oop-exercise.dll
