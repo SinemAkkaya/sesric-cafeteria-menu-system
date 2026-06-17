@@ -1,0 +1,15 @@
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/bin/Debug/net10.0/04-methods-exercise
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/bin/Debug/net10.0/04-methods-exercise.deps.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/bin/Debug/net10.0/04-methods-exercise.runtimeconfig.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/bin/Debug/net10.0/04-methods-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/bin/Debug/net10.0/04-methods-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.AssemblyInfoInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.AssemblyInfo.cs
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.csproj.CoreCompileInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.sourcelink.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/refint/04-methods-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/04-methods-exercise.genruntimeconfig.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/04-methods-exercise/obj/Debug/net10.0/ref/04-methods-exercise.dll
