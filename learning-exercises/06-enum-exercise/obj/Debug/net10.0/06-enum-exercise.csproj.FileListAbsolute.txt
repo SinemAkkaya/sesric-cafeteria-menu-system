@@ -1,0 +1,15 @@
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.AssemblyInfoInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.AssemblyInfo.cs
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.csproj.CoreCompileInputs.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.sourcelink.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/bin/Debug/net10.0/06-enum-exercise
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/bin/Debug/net10.0/06-enum-exercise.deps.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/bin/Debug/net10.0/06-enum-exercise.runtimeconfig.json
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/bin/Debug/net10.0/06-enum-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/bin/Debug/net10.0/06-enum-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/refint/06-enum-exercise.dll
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.pdb
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/06-enum-exercise.genruntimeconfig.cache
+/Users/sinemakkaya/sesric-cafeteria-menu-system/learning-exercises/06-enum-exercise/obj/Debug/net10.0/ref/06-enum-exercise.dll
