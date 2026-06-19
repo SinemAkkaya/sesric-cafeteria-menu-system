@@ -19,7 +19,7 @@ int Calculate(int num1,int num2, Operation op ) => op switch
  Operation.Substract => num1-num2,
  Operation.Multiply => num1*num2,
  Operation.Divide => num1 / num2,
-    _ => 0 // switch expression is like if else in if else 
+    _ => 0 // switch expression is like else in if else 
 };
 
 enum Operation{ 
